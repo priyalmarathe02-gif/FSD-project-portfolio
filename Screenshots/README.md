@@ -1,4 +1,6 @@
-## Screenshots
+# Portfolio – Version 1 (HTML & CSS)
+
+## Sections
 
 ### Main
 ![Main](Screenshots/main.png)
