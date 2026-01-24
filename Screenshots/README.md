@@ -3,11 +3,8 @@
 ## Sections
 
 
-### Home
-![Home](Screenshots/home.png)
-
-### About
-![About](Screenshots/About.png)
+### main
+![main](Screenshots/main.png)
 
 ### Skills
 ![Skills](Screenshots/Skills.png)
@@ -15,8 +12,9 @@
 ### Education
 ![Education](Screenshots/Education.png)
 
-### Projects and Contacts
-![Projects and Contacts](Screenshots/Projects.png)
+### Projects-And-Contacts
+![Projects-And-Contacts](Screenshots/Projects-And-Contacts.png)
 
 ### Footer
 ![Footer](Screenshots/Footer.png)
+
