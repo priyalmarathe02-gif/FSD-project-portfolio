@@ -12,8 +12,8 @@
 ### Education
 ![Education](Screenshots/Education.png)
 
-### Projects-And-Contacts
-![Projects-And-Contacts](Screenshots/Projects-And-Contacts.png)
+### Projects_and_Contacts
+![Projects_And_Contacts](Screenshots/Projects_and_Contacts.png)
 
 ### Footer
 ![Footer](Screenshots/Footer.png)
