@@ -15,6 +15,5 @@
 ### Footer Section Layout
 ![Footer Section](Screenshots/Footer.png)
 
-**
-[Click here to see the project](https://github.com/priyalmarathe02-gif/FSD-project-portfolio)
-**
+
+**[Click here to see the project live](https://priyalmarathe02-gif.github.io/FSD-project-portfolio/)**
