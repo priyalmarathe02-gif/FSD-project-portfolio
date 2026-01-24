@@ -1,1 +1,22 @@
+# Portfolio – Version 1 (HTML & CSS)
+
+## Sections
+
+
+
+### Main
+![Main](Screenshots/Main.png)
+
+### Skills
+![Skills](Screenshots/Skills.png)
+
+### Education
+![Education](Screenshots/Education.png)
+
+### Projects and Contacts
+![Projects and Contacts](Screenshots/Projects_and_Contacts.png)
+
+### Footer
+![Footer](Screenshots/Footer.png)
+
 
