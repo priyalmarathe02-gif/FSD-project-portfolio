@@ -19,14 +19,18 @@
 ### Footer Section Layout
 ![Footer Section](Screenshots/Footer.png)
 
+<br><br><br><br><br> <!-- Big space between versions -->
+
 ---
+
+<br><br><br> <!-- Extra vertical space for more separation -->
 
 # Version 2 – Portfolio Website HTML & CSS Styling and Designing Implementation
 
 ### Main Head
 ![Main Head](ScreenshotsV2/Main_head.png)
 
-## Skills
+### Skills
 ![Skills](ScreenshotsV2/Skills.png)
 
 ### About
