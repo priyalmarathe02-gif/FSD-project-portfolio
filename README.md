@@ -1,4 +1,8 @@
-## Version 1 – Portfolio Structure (HTML & CSS)
+# Portfolio Website
+
+---
+
+# Version 1 – Portfolio Structure (HTML & CSS)
 
 ### Main Section Layout
 ![Main Section](Screenshots/Main.png)
@@ -15,35 +19,30 @@
 ### Footer Section Layout
 ![Footer Section](Screenshots/Footer.png)
 
+---
 
+# Version 2 – Portfolio Website HTML & CSS Styling and Designing Implementation
 
-
-
-# Portfolio Website (Version 2) HTML & CSS Styling and Designing Implementation
-  
-
-## Main Head
+### Main Head
 ![Main Head](ScreenshotsV2/Main_head.png)
 
-## Skills
+### Skills
 ![Skills](ScreenshotsV2/Skills.png)
 
-## About
+### About
 ![About](ScreenshotsV2/About.png)
 
-## Education
+### Education
 ![Education](ScreenshotsV2/Education.png)
 
-## Projects
+### Projects
 ![Projects](ScreenshotsV2/Projects.png)
 
-## Certificates
+### Certificates
 ![Certificates](ScreenshotsV2/Certificates.png)
 
-## Interests
+### Interests
 ![Interests](ScreenshotsV2/Interests.png)
 
-## Footer
+### Footer
 ![Footer](ScreenshotsV2/Footer.png)
-
-
