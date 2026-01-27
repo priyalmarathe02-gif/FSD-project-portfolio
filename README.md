@@ -26,7 +26,7 @@
 ### Main Head
 ![Main Head](ScreenshotsV2/Main_head.png)
 
-### Skills
+## Skills
 ![Skills](ScreenshotsV2/Skills.png)
 
 ### About
