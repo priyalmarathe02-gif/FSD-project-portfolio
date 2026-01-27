@@ -34,7 +34,7 @@
 
 <br><br><br>
 
-# Version 2 – Portfolio Website HTML & CSS Styling and Designing Implementation
+# Version 2 – Portfolio Static Website HTML & CSS Styling and Designing Implementation
 
 ### Main Head
 ![Main Head](ScreenshotsV2/Main_head.png)
