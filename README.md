@@ -19,8 +19,8 @@
 
 
 
-# Portfolio Website (Version 2)  
-HTML & CSS Styling and Designing Implementation  
+# Portfolio Website (Version 2) HTML & CSS Styling and Designing Implementation
+  
 
 ## Main Head
 ![Main Head](ScreenshotsV2/Main_head.png)
