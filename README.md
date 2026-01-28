@@ -32,30 +32,33 @@
 
 ---
 
-<br><br><br>
 
-# Version 2 – Portfolio Static Website HTML & CSS Styling and Designing Implementation
+# **Version 2 – Portfolio Static Website HTML & CSS Styling and Designing Implementation**
 
-### Main Head
-![Main Head](ScreenshotsV2/Main_head.png)
+### Main Header
+![Main Header](/ScreenshotsV2/Main_Head.png)
 
-### Skills
-![Skills](ScreenshotsV2/Skills.png)
+### About Section
+![About Section](/ScreenshotsV2/About.png)
 
-### About
-![About](ScreenshotsV2/About.png)
+### Skills Section
+![Skills Section](/ScreenshotsV2/Skills.png)
 
-### Education
-![Education](ScreenshotsV2/Education.png)
+### Education Section
+![Education Section](/ScreenshotsV2/Education.png)
 
-### Projects
-![Projects](ScreenshotsV2/Projects.png)
+### Projects Section
+![Projects Section](/ScreenshotsV2/Projects.png)
 
-### Certificates
-![Certificates](ScreenshotsV2/Certificates.png)
+### Certificates Section
+![Certificates Section](/ScreenshotsV2/Certificates.png)
 
-### Interests
-![Interests](ScreenshotsV2/Interests.png)
+### Hobbies & Interests Section
+![Hobbies & Interests](/ScreenshotsV2/Interests.png)
 
 ### Footer
-![Footer](ScreenshotsV2/Footer.png)
+![Footer](/ScreenshotsV2/Footer.png)
+
+
+<br><br><br>
+)
